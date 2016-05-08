@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App/assets/database/database.db</file>
+        <file>App/assets/scripts/formChecks.js</file>
+    </qresource>
+</RCC>

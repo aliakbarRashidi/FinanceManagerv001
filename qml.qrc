@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>App/main.qml</file>
+        <file>App/LoginDemo.qml</file>
+        <file>App/RegisterDemo.qml</file>
+        <file>App/BudgetDemo.qml</file>
+        <file>App/ListBudgetDemo.qml</file>
+    </qresource>
+</RCC>
